@@ -3,8 +3,8 @@
 # Metaverses
 
 Metaverses - a Modern Next 13 Website With Framer Motion & Tailwind CSS 
-## Functionalities
 
+## Functionalities
 
 👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
 
@@ -25,6 +25,7 @@ and many more, including code architecture and reusability
 - **React**: Frontend framework for building dynamic and interactive user interfaces.
 - **Tailwind CSS**: Utility-first CSS framework for rapid UI development and customization.
 - **vite** : a build tool that aims to provide a faster and leaner development experience for modern web projects
+- **framer motion** : Open source, production-ready animation and gesture library for React 
 ## Screenshots
 
 ![Screenshot 1](screenshots/1.jpg)
@@ -47,7 +48,3 @@ To run the project locally, follow these steps:
 2. Navigate to the project directory: `cd metaverses`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
